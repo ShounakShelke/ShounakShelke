@@ -2,7 +2,7 @@
 
 # Shounak Shelke
 
-`Computer Engineering Undergraduate` | `Data Science & ML` | `Java Full Stack`
+`Third Year Computer Engineering Undergraduate` | `Data Science & Machine Learning` | `Java Full Stack Developer`
 
 <br/>
 
