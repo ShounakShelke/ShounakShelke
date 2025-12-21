@@ -59,13 +59,14 @@ Git • GitHub • Google Cloud • Swagger • Figma • Adobe XD • Canva •
 
 <br/>
 
-<hr/>
-
 ### Areas of Interest
 • Applied Machine Learning  
 • Data Engineering & Analytics  
 • Backend & Distributed Systems  
 • Visualization & Decision-Support Systems
+
+<hr/>
+
 
 
 ### Connect
