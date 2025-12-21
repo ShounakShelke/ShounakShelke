@@ -2,84 +2,169 @@
 
 # Shounak Shelke
 
-`Third Year Computer Engineering Undergraduate` | `Data Science & Machine Learning` | `Java Full Stack Developer`
+`Computer Engineering Undergraduate` | `Data Science & ML` | `Java Full Stack`
 
 <br/>
 
 ### About
 Third-year **B.Tech Computer Engineering** student at  
 **K J Somaiya College of Engineering, Mumbai (2023–2027)**.  
-Focused on building **data-driven systems**, **ML pipelines**, and  
+Interested in building **data-driven systems**, **ML pipelines**, and  
 **scalable full-stack applications**.
 
 <br/>
 
 ### The Stack
 
-**Programming Languages**
-<br/>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,python,c,r,js,ts,sql,html,css,php" />
-</a>
+### Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=java" /> <br/>Java
+</p>
+<p>
+<img src="https://skillicons.dev/icons?i=python" /> <br/>Python
+</p>
+<p>
+<img src="https://skillicons.dev/icons?i=c" /> <br/>C
+</p>
+<p>
+<img src="https://skillicons.dev/icons?i=r" /> <br/>R
+</p>
+<p>
+<img src="https://skillicons.dev/icons?i=js" /> <br/>JavaScript
+</p>
+<p>
+<img src="https://skillicons.dev/icons?i=html" /> <br/>HTML5
+</p>
+<p>
+<img src="https://skillicons.dev/icons?i=css" /> <br/>CSS3
+</p>
+<p>
+<img src="https://skillicons.dev/icons?i=php" /> <br/>PHP
+</p>
 
 <br/>
 
-**Databases**
-<br/>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,oracle,sqlite" />
-</a>
-<br/>
-<sub>Neo4j • Apache Cassandra</sub>
+### Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" /> <br/>MySQL
+</p>
+<p>
+<img src="https://skillicons.dev/icons?i=postgres" /> <br/>PostgreSQL
+</p>
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb" /> <br/>MongoDB
+</p>
+<p>
+<img src="https://skillicons.dev/icons?i=sqlite" /> <br/>SQLite
+</p>
+<p>
+<img src="https://skillicons.dev/icons?i=neo4j" /> <br/>Neo4j
+</p>
+<p>
+<img src="https://skillicons.dev/icons?i=cassandra" /> <br/>Apache Cassandra
+</p>
+<p>
+<img src="https://skillicons.dev/icons?i=postgres" /> <br/>SQL
+</p>
 
 <br/>
 
-**Data Science & Machine Learning**
-<br/>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-</a>
-<br/>
-<sub>Pandas • NumPy • scikit-learn • Plotly • Matplotlib • Tableau • Power BI • Data Warehousing • Big Data</sub>
+### Data Science & Machine Learning
+<p>
+<img src="https://skillicons.dev/icons?i=python" /> <br/>Pandas
+</p>
+<p>
+<img src="https://skillicons.dev/icons?i=numpy" /> <br/>NumPy
+</p>
+<p>
+<img src="https://skillicons.dev/icons?i=sklearn" /> <br/>scikit-learn
+</p>
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch" /> <br/>PyTorch
+</p>
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow" /> <br/>TensorFlow
+</p>
+<p>
+<img src="https://skillicons.dev/icons?i=matplotlib" /> <br/>Matplotlib
+</p>
+<p>
+<img src="https://skillicons.dev/icons?i=plotly" /> <br/>Plotly
+</p>
+<p>
+<img src="https://skillicons.dev/icons?i=tableau" /> <br/>Tableau
+</p>
+<p>
+<img src="https://skillicons.dev/icons?i=powerbi" /> <br/>Power BI
+</p>
 
 <br/>
 
-**Web / Full Stack**
-<br/>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,spring,flask,fastapi,tailwind,vite,npm" />
-</a>
-<br/>
-<sub>REST APIs • Streamlit • Apache Maven • Apache Tomcat</sub>
+### Web / Full Stack
+<p>
+<img src="https://skillicons.dev/icons?i=react" /> <br/>React.js
+</p>
+<p>
+<img src="https://skillicons.dev/icons?i=spring" /> <br/>Spring Boot
+</p>
+<p>
+<img src="https://skillicons.dev/icons?i=flask" /> <br/>Flask
+</p>
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi" /> <br/>FastAPI
+</p>
+<p>
+<img src="https://skillicons.dev/icons?i=tailwind" /> <br/>TailwindCSS
+</p>
+<p>
+<img src="https://skillicons.dev/icons?i=vite" /> <br/>Vite
+</p>
+<p>
+<img src="https://skillicons.dev/icons?i=npm" /> <br/>NPM
+</p>
+<p>
+<img src="https://skillicons.dev/icons?i=apache" /> <br/>Maven & Tomcat
+</p>
+<p>
+<img src="https://skillicons.dev/icons?i=streamlit" /> <br/>Streamlit
+</p>
 
 <br/>
 
-**Tools & Platforms**
-<br/>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,gcp,postman,figma,xd,linux" />
-</a>
-<br/>
-<sub>Swagger • Canva • QGIS • PostGIS • Jupyter • Arduino • Notion • Radix UI</sub>
+### Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git" /> <br/>Git
+</p>
+<p>
+<img src="https://skillicons.dev/icons?i=github" /> <br/>GitHub
+</p>
+<p>
+<img src="https://skillicons.dev/icons?i=gcp" /> <br/>Google Cloud
+</p>
+<p>
+<img src="https://skillicons.dev/icons?i=swagger" /> <br/>Swagger
+</p>
+<p>
+<img src="https://skillicons.dev/icons?i=figma" /> <br/>Figma
+</p>
+<p>
+<img src="https://skillicons.dev/icons?i=xd" /> <br/>Adobe XD
+</p>
+<p>
+<img src="https://skillicons.dev/icons?i=canva" /> <br/>Canva
+</p>
+<p>
+<img src="https://skillicons.dev/icons?i=jupyter" /> <br/>Jupyter
+</p>
+<p>
+<img src="https://skillicons.dev/icons?i=qgis" /> <br/>QGIS / PostGIS
+</p>
 
-<br/>
 <br/>
 
 ### Activity
 
-<a href="https://github.com/ShounakShelke">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShounakShelke&theme=tokyonight&hide_border=false" />
-</a>
-
-<br/>
-
-<a href="https://github.com/ShounakShelke">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShounakShelke&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
-</a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=ShounakShelke&color=lightgrey&style=flat-square&label=VIEWS" />
+<img src="https://metrics.lecoq.io/ShounakShelke?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&commits.limit=12&commits.authoring=true&config.timezone=Asia/Kolkata" />
 
 <br/>
 
