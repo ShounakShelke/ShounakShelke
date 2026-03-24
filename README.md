@@ -51,18 +51,6 @@ I don’t treat ML as isolated models. I build systems where Data flows → Proc
 
 ---
 
-## Statistics and Impact
-<div align="center">
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShounakShelke&show_icons=true&theme=aura&count_private=true" alt="Shounak's GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShounakShelke&theme=aura" width="48%" alt="Shounak's Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShounakShelke&layout=compact&theme=vision-friendly-dark" width="48%" alt="Top Langs" />
-</p>
-</div>
-
----
 
 ## What I Optimize For
 
